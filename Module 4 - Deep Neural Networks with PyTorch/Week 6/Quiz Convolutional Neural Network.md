@@ -17,7 +17,7 @@
     6
 > 1 point
 > 
-> Enter answer here
+> Enter answer here.
 > 
 > 2.
 > 
