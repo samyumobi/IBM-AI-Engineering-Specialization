@@ -32,9 +32,15 @@
 > Check
 > 
 > Correct
+
+
+
+     all the samples in your training set are sometimes called a:
+
+> sample 
+
 > 
-> 2.
-> 
+> Correct
 > Question 2
 > 
 > Gradient Descent is sometimes referred to as Batch Gradient Descent?
