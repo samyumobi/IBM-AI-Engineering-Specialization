@@ -37,7 +37,7 @@
 
      all the samples in your training set are sometimes called a:
 
-> sample 
+> batch
 
 > 
 > Correct
